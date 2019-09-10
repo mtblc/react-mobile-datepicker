@@ -1,12 +1,15 @@
 {
-  "name": "react-mobile-datepicker",
-  "version": "4.0.1",
+  "name": "@mtblc/react-mobile-datepicker",
+  "version": "4.0.2",
   "description": "一个移动端时间选择器react组件",
   "main": "./dist/react-mobile-datepicker.js",
   "amdName": "reactMobileDatePicker",
   "minified:main": "dist/react-mobile-datepicker.min.js",
-  "repository": "lanjingling0510/react-mobile-datepicker",
-  "homepage": "https://github.com/lanjingling0510/react-mobile-datepicker#readme",
+  "repository": "https://github.com/mtblc/react-mobile-datepicker.git",
+  "homepage": "https://github.com/mtblc/react-mobile-datepicker",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "react-component",
     "react-datepicker",
